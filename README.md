@@ -76,6 +76,3 @@ KM/
 1. Static compilation: `gcc -static -o tool tool.c`
 2. Dependency check: `ldd tool | grep -v "not found"`
 3. Reduce binary size: `strip tool`
-
-
-![猫咪派对](https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif)
