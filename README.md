@@ -1,4 +1,4 @@
-# Kernel-Mode
+# Kernel-Mode :octocat:
 Based on x86-64 and ARM PC,System plug-ins outside of Linux,Can be used to maintain the system Different from Linux liveIt can be used directly locally through GRUB
 
 # Table of Contents  
@@ -75,3 +75,6 @@ KM/
 1. Static compilation: `gcc -static -o tool tool.c`
 2. Dependency check: `ldd tool | grep -v "not found"`
 3. Reduce binary size: `strip tool`
+
+
+![猫咪派对](https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif)
