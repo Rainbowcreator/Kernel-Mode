@@ -11,12 +11,13 @@ An independent kernel-mode system separated from the Linux root directory, built
 ## Directory Structure
  
  
+```txt```
 KM/
 ├── Boot/         # Boot core components
 ├── RootFS/       # Independent root file system
 ├── Build/        # Build scripts & configs
 └── Docs/         # Documentation
-
+```
 
 
 ## Quick Start
